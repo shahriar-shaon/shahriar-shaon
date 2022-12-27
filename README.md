@@ -1,8 +1,9 @@
 ### Hi there 👋, I’m @shahriar-shaon
-https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif
+![](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif)
 
 A highly organized and hard-working individual seeking a position where I would be able to utilize my strong analytical and communication skills combined with my knowledge of business to accomplish organizational goals. Offering MSc. Degree in "International Management, Marketing, Entrepreneurship" along with a BBA in Finance and Accounting. Highly Passionate about working with Marketing tools
 
+Skills:  
 - 🔭 I’m currently working on Data analysis and data visualisation 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on DATA analysis projects. 
