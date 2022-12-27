@@ -5,10 +5,10 @@
 
 ## EDUCATION
 
-##### *Master's degree in International Management, Marketing, Entrepreneurship 
+##### *Master's degree in International Management, Marketing, Entrepreneurship* 
 ##### Otto-von-Guericke University Magdeburg, Germany
 
-##### *Bachelor of Business Administration - BBA, Accounting and Finance
+##### *Bachelor of Business Administration - BBA, Accounting and Finance*
 ##### Independent University, Bangladesh
 
 ## SKILLS
