@@ -15,7 +15,7 @@
 ##### Independent University, Bangladesh
 
 ## SKILLS
- :9555
+ :9555:
 ## 📫 HOW TO REACH ME:
 
 
