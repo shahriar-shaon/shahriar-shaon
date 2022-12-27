@@ -16,6 +16,12 @@
 
 ## SKILLS
 ![](https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png)
+![]([https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png](https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png)
+![]([https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png](https://github.com/sempostma/office365-icons/raw/master/png/256/excel.png)
+![](https://logos-marques.com/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png)
+
+
+
 ## 📫 HOW TO REACH ME:
 
 
