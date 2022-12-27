@@ -5,10 +5,10 @@
 
 ## EDUCATION
 
-##### Master's degree in International Management, Marketing, Entrepreneurship 
+##### *Master's degree in International Management, Marketing, Entrepreneurship 
 ##### Otto-von-Guericke University Magdeburg, Germany
 
-##### Bachelor of Business Administration - BBA, Accounting and Finance
+##### *Bachelor of Business Administration - BBA, Accounting and Finance
 ##### Independent University, Bangladesh
 
 ## SKILLS
@@ -18,7 +18,11 @@
 - 📫 How to reach me:
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/shahriar-shaon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaon-shahriar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='30'>](https://public.tableau.com/app/profile/shahriar4560)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='30'>](shahriar.shaon@outlook.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/shahriar-shaon) 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaon-shahriar//)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='30'>](https://public.tableau.com/app/profile/shahriar4560)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='30'>](shahriar.shaon@outlook.com)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar-shaon&show_icons=true)  
 
