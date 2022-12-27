@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m @shahriar-shaon
-![](https://media.licdn.com/dms/image/D4E03AQE-paCsxpNudQ/profile-displayphoto-shrink_400_400/0/1665418257791?e=1677715200&v=beta&t=MD4FcdEsz52hGfNBgjldENkM_1jr1f_rh9p3MJC77WY)
+https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif
 
 A highly organized and hard-working individual seeking a position where I would be able to utilize my strong analytical and communication skills combined with my knowledge of business to accomplish organizational goals. Offering MSc. Degree in "International Management, Marketing, Entrepreneurship" along with a BBA in Finance and Accounting. Highly Passionate about working with Marketing tools
 
