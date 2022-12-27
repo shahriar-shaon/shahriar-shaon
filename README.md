@@ -20,8 +20,7 @@
 ![]([https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png](https://github.com/sempostma/office365-icons/raw/master/png/256/excel.png)
 ![](https://logos-marques.com/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png)
 
-[<img src='<img width="409" alt="Screenshot 2022-12-28 at 00 30 59" src="https://user-images.githubusercontent.com/119105391/209736388-f11f81f4-57c5-4a22-9a20-1e2ee7fb9f37.png">
-' alt='github' height='30'>
+<img src='<img width="40" alt="Screenshot 2022-12-28 at 00 30 59" height='30'>
 
 
 ## 📫 HOW TO REACH ME:
