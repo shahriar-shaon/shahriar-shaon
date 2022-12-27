@@ -5,11 +5,11 @@
 
 ## EDUCATION
 
-Master's degree in International Management, Marketing, Entrepreneurship 
-Otto-von-Guericke University Magdeburg, Germany
+### Master's degree in International Management, Marketing, Entrepreneurship 
+### Otto-von-Guericke University Magdeburg, Germany
 
-Bachelor of Business Administration - BBA, Accounting and Finance
-Independent University, Bangladesh
+### Bachelor of Business Administration - BBA, Accounting and Finance
+### Independent University, Bangladesh
 
 ## SKILLS
 - 🔭 I’m currently working on Data analysis and data visualisation 
