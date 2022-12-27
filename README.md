@@ -1,10 +1,17 @@
 # Hi there 👋, I’m @shahriar-shaon
 ![](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif)
 
-##### A highly organized and hard-working individual seeking a position where I would be able to utilize my strong analytical and communication skills combined with my knowledge of business to accomplish organizational goals. Highly Passionate about working with Marketing tools
+##### A highly organized and hard-working individual seeking a position where I would be able to utilize my strong analytical and communication skills combined with my knowledge of business to accomplish organizational goals. Highly Passionate about working with Marketing tools.
 
+## EDUCATION
 
+Master's degree in International Management, Marketing, Entrepreneurship 
+Otto-von-Guericke University Magdeburg, Germany
 
+Bachelor of Business Administration - BBA, Accounting and Finance
+Independent University, Bangladesh
+
+## SKILLS
 - 🔭 I’m currently working on Data analysis and data visualisation 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on DATA analysis projects. 
