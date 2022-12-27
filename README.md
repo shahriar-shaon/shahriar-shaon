@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on DATA analysis projects. 
 
-## 📫 How to reach me:
+## 📫 HOW TO REACH ME:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/shahriar-shaon) 
