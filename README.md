@@ -1,5 +1,6 @@
 # Hi there 👋, I’m @shahriar-shaon
  ![](https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif)
+＜img src="https://code.visualstudio.com/assets/docs/languages/tsql/intellisense.gif" width="500" height="300"＞
 
 ##### A highly organized and hard-working individual seeking a position where I would be able to utilize my strong analytical and communication skills combined with my knowledge of business to accomplish organizational goals. Highly Passionate about working with Marketing tools.
 - 🔭 I’m currently working on Data analysis and data visualisation 
