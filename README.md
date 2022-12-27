@@ -19,9 +19,7 @@
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/shahriar-shaon) 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shaon-shahriar//)  
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='30'>](https://public.tableau.com/app/profile/shahriar4560)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='30'>](shahriar.shaon@outlook.com)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriar-shaon&show_icons=true)  
