@@ -7,11 +7,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
-- 🔭 I’m currently working on **Data analysis and data visualisation**
+- 🔭 I’m currently working on **Data Analysis and Data Visualisation**
 
 - 🌱 I’m currently learning **Phyton**
 
-- 👯 I’m looking to collaborate on **DATA analysis projects.**
+- 👯 I’m looking to collaborate on **Data Analysis Projects.**
 
 - 📫 How to reach me **shahriar.shaon@outlook.com**
 
