@@ -1,8 +1,8 @@
 
-![MasterHead](https://code.visualstudio.com/assets/docs/languages/tsql/execute.gif)
+<img align="center" alt="Coding"  height="300"  width="1000" src="https://code.visualstudio.com/assets/docs/languages/tsql/execute.gif">
 
 <h1 align="center">Hi 👋, I'm shahriar-shaon</h1>
-<h3 align="center"> passionate about data analytic</h3>
+<h3 align="center"> Passionate about data analytics</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **DATA analysis projects.**
 
-- 📫 How to reach me **linkedin.com/in/shaon-shahriar , shahriar.shaon@outlook.com**
+- 📫 How to reach me **linkedin.com/in/shaon-shahriar** **shahriar.shaon@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
