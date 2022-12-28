@@ -1,14 +1,16 @@
 ![Profile views](https://gpvc.arturio.dev/shahriar-shaon)
 
+<h1 align="center">Hi 👋, I'm SHAHRIAR-SHAON</h1>
+<h3 align="center"> Passionate about Data Analysis and Visualization</h3>
+
+
 <img align="center" alt="Coding"  height="300"  width="1000" src="https://code.visualstudio.com/assets/docs/languages/tsql/execute.gif">
 
-<h1 align="center">Hi 👋, I'm Shahriar-Shaon</h1>
-<h3 align="center"> Passionate about Data Analytics</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
-- 🔭 I’m currently working on **Data Analysis and Data Visualisation**
+- 🔭 I’m currently working on **Data Analysis and Data Visualization**
 
 - 🌱 I’m currently learning **Phyton**
 
