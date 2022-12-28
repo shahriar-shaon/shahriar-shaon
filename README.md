@@ -1,8 +1,8 @@
 
 <img align="center" alt="Coding"  height="300"  width="1000" src="https://code.visualstudio.com/assets/docs/languages/tsql/execute.gif">
 
-<h1 align="center">Hi 👋, I'm shahriar-shaon</h1>
-<h3 align="center"> Passionate about data analytics</h3>
+<h1 align="center">Hi 👋, I'm Shahriar-Shaon</h1>
+<h3 align="center"> Passionate about Data Analytics</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
