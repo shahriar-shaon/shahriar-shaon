@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **DATA analysis projects.**
 
-- 📫 How to reach me **linkedin.com/in/shaon-shahriar** **shahriar.shaon@outlook.com**
+- 📫 How to reach me **shahriar.shaon@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
